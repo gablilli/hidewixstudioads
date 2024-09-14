@@ -1,4 +1,5 @@
-# Code for desktop version
+# Hide WixStudio ads for free
+## Code for desktop version
 We create the desktop version of the wix studio site.
 ```
 </head><body>
@@ -25,7 +26,7 @@ document.location = "/mobile.html";
 
 ```
 
-# Code for Mobile
+## Code for Mobile
 Now we create the file that the Desktop one is pointing, this time with the name "mobile.html" (you can name it with whatever you want).
 
 ```
@@ -42,14 +43,14 @@ Now we create the file that the Desktop one is pointing, this time with the name
 </html>
 ```
 
-# Domain and Hosting
-## Domain
+## Domain and Hosting
+### Domain
 Now we need where to host our site. We can use [eu.org](https://eu.org) (but the domain registration is really slow) or [us.kg](https://us.kg), wich I would right now reccomend, even for its compatibility with CloudFlare.
-## Hosting
+### Hosting
 We have our domain. For hosting, right now, I've found only a solution, [FreeHostia](https://www.frehostia.com), but it's pretty stable.
 We register on their site (they will not ask for your credit card) and then connect our domain via NameServers in the us.kg's reserved area (dns1.freehostia.com and dns2.freehostia.com).
 Now, that we have our domain pointing to Freehostia's nameservers, we can create the html pages of our site, copy & pasting the code above (changing the wixstudio url for every page).
-### SSL
+#### SSL
 With FreeHostia you can receive a Let's Encrypt certificate, that renews automatically after 90 days.
 
 
@@ -57,6 +58,6 @@ With FreeHostia you can receive a Let's Encrypt certificate, that renews automat
 
 
 
-# Creds:
+## Creds:
 [Bobojeans Repo](https://github.com/bobojean/Hiding-Wix-Ad-for-Free) that I've updated for WixStudio.
 
