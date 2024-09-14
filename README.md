@@ -56,8 +56,15 @@ With FreeHostia you can receive a Let's Encrypt certificate, that renews automat
 
 
 
+## Photos
+![before](https://github.com/user-attachments/assets/959c5e17-30b8-4567-8ab9-6183059a917c)
+![after](https://github.com/user-attachments/assets/4a3e97e8-3997-4bc1-9b9d-c420763a450a)
+
+
 
 
 ## Creds:
 [Bobojeans Repo](https://github.com/bobojean/Hiding-Wix-Ad-for-Free) that I've updated for WixStudio.
+
+
 
