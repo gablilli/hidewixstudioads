@@ -32,6 +32,7 @@ Now we create the file that the Desktop one is pointing, this time with the name
 ```
 <html>
   <title>Title of the site</title>
+  <link rel="icon" type="image/x-icon" href="/youriconhere.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <body>
@@ -57,7 +58,10 @@ With FreeHostia you can receive a Let's Encrypt certificate, that renews automat
 
 
 ## Photos
+before
 ![before](https://github.com/user-attachments/assets/959c5e17-30b8-4567-8ab9-6183059a917c)
+
+after
 ![after](https://github.com/user-attachments/assets/4a3e97e8-3997-4bc1-9b9d-c420763a450a)
 
 
