@@ -46,7 +46,7 @@ Now we create the file that the Desktop one is pointing, this time with the name
 
 ## Domain and Hosting
 ### Domain
-Now we need where to host our site. We can use [eu.org](https://eu.org) (but the domain registration is really slow) or [us.kg](http://us.kg), wich I would right now reccomend, even for its compatibility with CloudFlare.
+Now we need where to host our site. We can use [eu.org](https://eu.org) (but the domain registration is really slow) or [us.kg](http://us.kg) with his [repo](https://github.com/DigitalPlatDev/FreeDomain), wich I would right now reccomend, even for its compatibility with CloudFlare.
 ### Hosting
 We have our domain. For hosting, right now, I've found only a solution, [FreeHostia](https://www.frehostia.com), but it's pretty stable.
 We register on their site (they will not ask for your credit card) and then connect our domain via NameServers in the us.kg's reserved area (dns1.freehostia.com and dns2.freehostia.com).
